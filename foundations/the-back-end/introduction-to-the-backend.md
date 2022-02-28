@@ -18,4 +18,4 @@ Three parts
 
 ### Where does the backend store its data?
 
-The backend stores its data on a database. A database provide an interface to save data in a persitent way to memory.
+The backend stores its data on a database. A database an provide an interface to save data in a persitent way to memory.
