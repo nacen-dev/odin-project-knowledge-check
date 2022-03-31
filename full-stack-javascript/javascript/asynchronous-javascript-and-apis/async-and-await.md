@@ -22,7 +22,7 @@ The async keyword makes the function return a promise.
 
 ### What does the await keyword do?
 
-The await keyword as it name suggest awaits the promise to be resolved, then it returns the result.
+The await keyword as it name suggest waits for the promise to be resolved, then it either throws an error if an exception is generated or it returns the result.
 
 ### What is returned from an async function?
 
